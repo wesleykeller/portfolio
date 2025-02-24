@@ -35,7 +35,7 @@ section {
     background: #DDA15E;
     font-size: large;
     align-items: center;
-    padding: 40px;
+    padding: 20px;
     margin: 20px auto;
     width: 90%;
     border-radius: 20px;
@@ -58,4 +58,18 @@ section {
 
 .project {
    font-size: large; 
+}
+
+.resume_text {
+    font-size: large;
+    color: #283618;
+    padding: 10px;
+    text-align: left;
+}
+
+.work_experience {
+    font-size: large;
+    color: #283618;
+    padding: 10px;
+    text-align: left;
 }
